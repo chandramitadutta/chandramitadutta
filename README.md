@@ -1,9 +1,11 @@
 ## Hi there 👋 I am Chandramita
 
 - 😄 Pronouns: she/her
-- 👩‍💻 Engineer, Data Scientist and Learner
-- 📚 UC Berkeley Alum - Masters focussed in Data Science.
-- 🤓 Currently learning to understand and improve products with data analytics and machine learning.
+- 👩‍💻 Engineer, Data Scientist, and Lifelong Learner
+- 📚 UC Berkeley Alum - Master's in Data Science with a passion for uncovering insights and driving innovation.
+- 🤖 Current Focus: Exploring how data analytics and machine learning can transform products and user experiences.
+- 🛠️ Skills: Advanced SQL, A/B Testing, Statistics, Data Visualization, and Machine Learning.
+- 🎨 Interests: Merging art, society, and science to create impactful, data-driven solutions. Avid reader (and listener) of data ethics and AI advancements.
 
 <b>Formerly:</b> 
 - 📈 Product Data Analytics at [Bill](https://www.bill.com/about-us) (2023)
