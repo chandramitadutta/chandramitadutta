@@ -1,5 +1,8 @@
 ## Hi there 👋 I am Chandramita
 
+- 😄 Pronouns: she/her
+- 👩‍💻 Engineer, Data Scientist and Learner.
+- 
 <!--
 **chandramitadutta/chandramitadutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
