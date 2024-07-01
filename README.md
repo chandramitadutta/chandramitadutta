@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: she/her
 - 👩‍💻 Engineer, Data Scientist, and Lifelong Learner
-- 📚 UC Berkeley Alum - Master's in Data Science with a passion for uncovering insights and driving innovation.
+- 📚 UC Berkeley Alum (2024) - Master's focused in Data Science. 🐻 Go Bears! 
 - 🤖 Current Focus: Exploring how data analytics and machine learning can transform products and user experiences.
 - 🛠️ Skills: Advanced SQL, A/B Testing, Statistics, Data Visualization, and Machine Learning.
 - 🎨 Interests: Merging art, society, and science to create impactful, data-driven solutions. Avid reader (and listener) of data ethics and AI advancements.
