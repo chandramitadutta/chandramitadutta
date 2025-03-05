@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Chandramita
 
 - 😄 Pronouns: she/her
-- 👩‍💻 Engineer, Data Scientist, and Learner.
+- 👩‍💻 Engineer, Data nerd, and Learner.
 - 📚 UC Berkeley Alum (2024) - Master's focused in Data Science. 🐻 Go Bears! 
 - 🤖 Current Focus: Building efficient,scalable data models and extracting actionable insights for the logistics industry.
 - 🛠️ Skills: Advanced SQL, Data Modeling, Statistics, A/B Testing, Data Visualization, and Machine Learning.
